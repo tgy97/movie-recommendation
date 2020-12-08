@@ -1,7 +1,9 @@
 # movie-recommendation
 
+## 包含
 
 ## 下载镜像
+### 镜像中已包含pyspark代码: /usr/local/test/code.py
 ```
 docker pull wavey/moive-recommendation:latest
 ```
